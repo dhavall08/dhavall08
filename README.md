@@ -11,7 +11,3 @@ Javascript, ⚛️ ReactJS, NextJS, :octocat: Git, Github, Node, Express, MongoD
 - Twitter      - [@dbl_08](https://twitter.com/dbl_08)
 - StackOverflow- [dhaval-laiya](https://stackoverflow.com/users/8915198/dhaval-laiya?tab=profile)
 - ✉️ [dhavalbl01@gmail.com](mailto:dhavalbl01@gmail.com)
-
-<hr />
-
-- ☕ Buy me a coffee - [buymeacoffee.com/dhavallaiya](https://www.buymeacoffee.com/dhavallaiya)
