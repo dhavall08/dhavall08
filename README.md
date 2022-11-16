@@ -7,8 +7,8 @@ Javascript, ⚛️ ReactJS, NextJS, :octocat: Git, Github, Node, Express, MongoD
 <hr />
 
 - Site          - https://dhaval-laiya.vercel.app/
-- Twitter      - [@dbl_08](https://twitter.com/dbl_08)
-- StackOverflow- [dhaval-laiya](https://stackoverflow.com/users/8915198/dhaval-laiya?tab=profile)
+- Twitter      - [@dhavall08](https://twitter.com/dhavall08)
+- StackOverflow- [dhavall08](https://stackoverflow.com/users/8915198/dhavall08)
 - CodeSandbox  - [dhavall08](https://codesandbox.io/u/dhavall08)
 - Blog         - [dhavallaiya](https://dhavallaiya.hashnode.dev)
 - ✉️ [dhavalbl01@gmail.com](mailto:dhavalbl01@gmail.com)
