@@ -1,8 +1,8 @@
 ### 👋 Hey there! I'm Dhaval.
 
-Here are a few tools and technologies that I am most familiar with:
+Here are a few tools and technologies with which I am most familiar:
 
-Javascript, ⚛️ ReactJS, NextJS, :octocat: Git, Github, Node, Express, MongoDB ,🌎 HTML, CSS, SCSS, :triangular_ruler: Adobe Illustrator.
+JavaScript, React ⚛️, Next.js, TypeScript, Git :octocat:, GitHub, Node, HTML 🌎, CSS, SCSS, Adobe Illustrator :triangular_ruler:, ...
 
 <hr />
 
