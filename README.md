@@ -2,7 +2,7 @@
 
 Here are a few tools and technologies with which I am most familiar:
 
-JavaScript, React ⚛️, Next.js, TypeScript, Git :octocat:, GitHub, Node, HTML 🌎, CSS, SCSS, Adobe Illustrator :triangular_ruler:, ...
+JavaScript, TypeScript, React ⚛️, Next.js, Git, GitHub :octocat:, Node, HTML 🌎, CSS, SCSS, Adobe Illustrator :triangular_ruler:, ...
 
 <hr />
 
